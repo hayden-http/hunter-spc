@@ -1,13 +1,13 @@
 (pt)
 - 👋 Oi, sou @hunter-spc 
-- Meus pronomes são ele/elu
+- Meus pronomes são ele/dele
 - 👀 Me interesso por música, desenhar, programar e anime/desenhos
 - 🌱 No momento estou estudando php
 - 📫 Como entrar em contato comigo: no instagram @sabrinapcampos01
 
 (eng)
 - 👋 Hi, I’m @hunter-spc 
-- My pronouns are they/he 
+- My pronouns are he/him
 - 👀 I’m interested in music, drawing, programming and anime/cartoons
 - 🌱 I’m currently learning php
 - 📫 How to reach me: on instagram @sabrinapcampos01
